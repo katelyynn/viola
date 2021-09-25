@@ -1,6 +1,6 @@
-# Simple Dark Resourcepack for Minecraft 1.17
+# Simple Dark Resourcepack for Minecraft 1.12-1.17
 
-Simple Dark is the successor to my previous dark-themed resource pack, Metro Dark Theme. This pack is built from the ground up with a sleek and modern design whilst keeping the dark aesthetic. Every GUI in the base game is themed along with most of the Realms GUIs making the experience seamless. There are also some additional fabric mods that have been themed with the pack, a full list detailed below.
+Simple Dark is the successor to my previous dark-themed resource pack, Metro Dark Theme. This pack is built from the ground up with a sleek and modern design whilst keeping the dark aesthetic. Every GUI in the base game is themed along with most of the Realms GUIs making the experience seamless. The pack also supports some Fabric and Forge mods which can be found over on [plexion.dev](https//l.plexion.dev/simpledark#featuring)
 
 ## Installation & Setup
 
