@@ -8,7 +8,7 @@
 ##### IMPORTANT
 - [x] VoiceChat (update)
 - [ ] ToroHealth
-- [ ] SlotLock
+- [x] SlotLock
 - [ ] Minecraft Realms
 - [ ] ModMenu
 - [ ] HideArmor
