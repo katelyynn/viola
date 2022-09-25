@@ -1,8 +1,10 @@
-# Simple Dark *F* Resourcepack for Minecraft 1.18
+# Simple Dark *F* Resourcepack for Minecraft 1.19
 
 > This is a development build for the latest 2.0 release of Simple Dark, codenamed ***fluorite*** as it looked interesting.
 
 ## DEVELOPMENT
+
+The main version of the pack is being focused on at the moment. Contrasted and the Halloween variation will come later.
 
 #### Mod support
 ##### IMPORTANT
