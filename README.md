@@ -1,17 +1,21 @@
-# Simple Dark *F* Resourcepack for Minecraft 1.19
+# Simple Dark Resourcepack for Minecraft 1.19
 
-> This is a development build for the latest 2.0 release of Simple Dark, codenamed ***fluorite*** as it looked interesting.
+## DEVELOPMENT FOR SIMPLE DARK *F*
 
-## DEVELOPMENT
+The pack has recently been re-designed for 2.0 (codenamed Fluorite), as a result some aspects are currently not updated.
 
 The main version of the pack is being focused on at the moment. Contrasted and the Halloween variation will come later.
+
+#### Essential
+- [ ] Support Minecraft Realms
+- [ ] Support Contrasted (may become deprecated?)
+- [ ] Support season-variations
 
 #### Mod support
 ##### IMPORTANT
 - [x] VoiceChat (update)
 - [ ] ToroHealth
 - [x] SlotLock
-- [ ] Minecraft Realms
 - [ ] ModMenu
 - [ ] HideArmor
 - [ ] Colourful Health Bar
