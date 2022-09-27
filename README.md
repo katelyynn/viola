@@ -2,7 +2,7 @@
 
 ## DEVELOPMENT FOR SIMPLE DARK *F*
 
-The pack has recently been re-designed for 2.0 (codenamed Fluorite), as a result some aspects are currently not updated.
+The pack has recently been redesigned for 2.0 (codenamed Fluorite), as a result some aspects are currently not updated.
 
 The main version of the pack is being focused on at the moment. Contrasted and the Halloween variation will come later.
 
