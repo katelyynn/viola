@@ -8,19 +8,17 @@ The main version of the pack is being focused on at the moment. Contrasted and t
 
 #### Essential
 - [ ] Support Minecraft Realms
-- [ ] Support Contrasted (may become deprecated?)
 - [ ] Support season-variations
 
 #### Mod support
 ##### IMPORTANT
 - [x] VoiceChat (update)
-- [ ] ToroHealth
 - [x] SlotLock
 - [ ] ModMenu
 - [ ] HideArmor
-- [ ] Colourful Health Bar
 - [x] Capes
 ##### OTHER
+- [ ] ToroHealth
 - [ ] TConstruct
 - [ ] GalactiCraft Planets
 - [ ] GalactiCraft Core
