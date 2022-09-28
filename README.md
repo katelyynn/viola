@@ -19,7 +19,7 @@ The main version of the pack is being focused on at the moment. Contrasted and t
 - [ ] ModMenu
 - [ ] HideArmor
 - [ ] Colourful Health Bar
-- [ ] Capes
+- [x] Capes
 ##### OTHER
 - [ ] TConstruct
 - [ ] GalactiCraft Planets
