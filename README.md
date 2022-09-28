@@ -14,7 +14,7 @@ The main version of the pack is being focused on at the moment. Contrasted and t
 ##### IMPORTANT
 - [x] VoiceChat (update)
 - [x] SlotLock
-- [ ] ModMenu
+- [x] ModMenu
 - [ ] HideArmor
 - [x] Capes
 ##### OTHER
