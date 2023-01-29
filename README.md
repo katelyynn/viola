@@ -15,7 +15,7 @@ The main version of the pack is being focused on at the moment. Contrasted and t
 - [x] VoiceChat (update)
 - [x] SlotLock
 - [x] ModMenu
-- [ ] HideArmor
+- [x] HideArmor
 - [x] Capes
 ##### OTHER
 - [ ] ToroHealth
