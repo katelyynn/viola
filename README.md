@@ -26,6 +26,7 @@ The pack has recently been redesigned for 2.0 (codenamed Fluorite), as a result 
 | [Colorful Health Bar](https://www.curseforge.com/minecraft/mc-mods/colorful-health-bar) | ✅ | ✅ |
 | [No Chat Reports](https://modrinth.com/mod/no-chat-reports) | ✅ | ✅ |
 | [oωo](https://modrinth.com/mod/owo-lib) | ✅ | ❌ |
+| [Language Reload](https://modrinth.com/mod/language-reload) | ✅ | ❌ |
 | [Inventory Profiles Next](https://modrinth.com/mod/inventory-profiles-next) | 🔄 | ❌ |
 | [Just Enough Items (JEI)](https://www.curseforge.com/minecraft/mc-mods/jei/files/3835405) | ❌ | ✅ |
 | [Galacticraft Legacy](https://www.curseforge.com/minecraft/mc-mods/galacticraft-legacy) | ❌ | ✅ |
