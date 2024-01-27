@@ -1,0 +1,11 @@
+{
+  "icon": "icon.png",
+  "description": "",
+  "packs": [
+    "viola",
+    "viola-1.19.2",
+    "viola-1.19.3",
+    "viola-legacy"
+  ],
+  "hidden": false
+}
